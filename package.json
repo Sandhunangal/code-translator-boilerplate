@@ -16,6 +16,7 @@
     "endent": "^2.1.0",
     "eventsource-parser": "^1.0.0",
     "install": "^0.13.0",
+    "languages-js": "^2.3.3",
     "next": "^13.3.0",
     "npm": "^9.6.4",
     "postcss": "8.4.22",
